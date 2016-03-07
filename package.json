@@ -48,7 +48,7 @@
     "core-js": "2.1.3",
     "d3-scale": "0.6.4",
     "d3-shape": "0.5.1",
-    "ima.js-babel6-polyfill": "0.1.1",
+    "ima-babel6-polyfill": "0.12.0",
     "lodash": "4.6.1",
     "oui-dom-utils": "0.3.8",
     "react-smooth": "0.0.11",
